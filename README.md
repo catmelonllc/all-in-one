@@ -40,6 +40,7 @@ There are 2 ways to run this file
 You can download the script directly to your machine using `curl`.
 
 `curl -o aio.sh https://github.com/catmelonllc/all-in-one/blob/main/aio.sh`
+
 then run 
 
 `chmod +x aio.sh`
@@ -47,6 +48,7 @@ then run
 after that finally run
 
 `./aio.sh`
+
 it will automatically ask you for your sudo password
 
 ### Method 2: Cloning the github repo (if having trouble with curl)
