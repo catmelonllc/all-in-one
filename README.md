@@ -3,6 +3,8 @@ A whole bunch of commands in one file! (even a special one 😉) public domain. 
 
 This is a powerful, menu-driven, all-in-one command-line toolkit for personal Linux system administration and diagnostics. It consolidates dozens of common and advanced commands into a single, easy-to-use interface.
 
+## Linux version
+
 The script is designed to be run with `sudo` and will automatically request root privileges if needed.
 
 ---
@@ -68,7 +70,9 @@ Then **make it executable**
 And finally. run it
 
 `./aio.sh`
+
 ---
+
 # Windows version
 
 
