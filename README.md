@@ -15,9 +15,17 @@ This script contains an **EXTREMELY DANGEROUS** option labeled **"99) LAST RESOR
 
 *   **The Result:** Your operating system, personal files, applications, and everything on all mounted drives will be deleted. The system will be rendered completely unbootable.
 
-*   **Safety Measures:** To prevent catastrophic accidents, this command is protected by multiple safety layers:
-    1.  You must type a specific confirmation phrase to proceed.
-    2.  There is a 10-second abort countdown.
+*   **Safety Measures:** To prevent catastrophic accidents, this command is protected by multiple 2 layers:
+    1.  You must type a specific confirmation phrase to proceed. The exact prompt you have to type to confirm the "Last Resort" option is:
+
+`I UNDERSTAND THIS IS PERMANENT`
+
+You must type it exactly like that, including:
+
+All capital letters.
+The spaces between the words.
+
+2.  There is a 10-second abort countdown.
 
 **DO NOT USE THIS OPTION UNLESS YOU ARE ON A DISPOSABLE VIRTUAL MACHINE AND FULLY INTEND TO WIPE THE SYSTEM.**
 
@@ -60,4 +68,7 @@ And finally. run it
 `./aio.sh`
 ---
 ok bye <3
-remember. this is public domain. all my work is
+remember. this is public domain. infact, all my work is. i believe all people should have the right to modify this.
+okay bye! 
+made by catmelonllc. original repo at `https://github.com/catmelonllc/all-in-one`
+<3 
