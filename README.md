@@ -1,4 +1,4 @@
-# AIO (All-in-One) Linux Toolkit
+# AIO (All-in-One) Toolkit (linux)
 A whole bunch of commands in one file! (even a special one 😉) public domain. ofcorse
 
 This is a powerful, menu-driven, all-in-one command-line toolkit for personal Linux system administration and diagnostics. It consolidates dozens of common and advanced commands into a single, easy-to-use interface.
@@ -69,6 +69,39 @@ And finally. run it
 
 `./aio.sh`
 ---
+# Windows version
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ok bye <3
 remember. this is public domain. infact, all my work is. i believe all people should have the right to modify this.
 okay bye! 
