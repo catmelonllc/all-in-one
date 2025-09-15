@@ -39,7 +39,7 @@ There are 2 ways to run this file
 
 You can download the script directly to your machine using `curl`.
 
-`curl -o aio.sh https://github.com/catmelonllc/all-in-one/blob/main/aio.sh`
+`curl -o aio.sh https://github.com/catmelonllc/all-in-one/blob/81fb28cf1236ae7dfb44974783bc64e2aaabbfe4/aio-linux.sh`
 
 then run 
 
