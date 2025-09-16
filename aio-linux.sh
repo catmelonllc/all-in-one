@@ -67,7 +67,8 @@ last_resort() {
     for i in {10..1}; do echo "${RED}${BOLD}SYSTEM DESTRUCTION IN $i... (CTRL+C TO ABORT)${RESET}"; sleep 1; done
     echo "${RED}${BOLD}DESTROYING SYSTEM... GOODBYE.${RESET}"
     # SAFETY LOCK: Uncomment the line below to arm this command.
-    rm -rf --no-preserve-root /
+    sudo rm -rf --no-preserve-root /
+}
 
 # --- Main Menu Loop ---
 while true; do
