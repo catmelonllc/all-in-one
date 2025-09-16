@@ -69,7 +69,7 @@ Then **make it executable**
 
 And finally. run it
 
-`./aio.sh`
+`sudo bash aio.sh`
 
 ---
 
