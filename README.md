@@ -70,7 +70,7 @@ And finally. run it
 
 ---
 
-2. Windows Toolkit (aio_windows.bat)
+# 2. Windows Toolkit (aio_windows.bat)
 
 A toolkit for modern Windows systems, written as a batch script.
 
